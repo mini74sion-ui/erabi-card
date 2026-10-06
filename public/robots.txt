@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://erabi-card.pages.dev/sitemap-index.xml
+Sitemap: https://erabi-card.mini74sion.workers.dev/sitemap-index.xml
